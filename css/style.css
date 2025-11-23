@@ -1,0 +1,62 @@
+
+ .body{
+width: auto;
+ 	margin: 0;
+ }
+ 
+.energysaving-navbar{
+	width: 90%;
+	border-block: solid black 2px;
+	color: red;
+	display: flex;
+	padding: 5%;
+	justify-content: space-between;
+	
+
+
+}
+
+
+.energy1-container{
+	display: flex;
+	text-align: center;
+	justify-content:center;
+	
+}
+.energy2-container{
+display: flex;
+}
+
+.col1{
+
+width: 33%;
+}
+.col2{
+	width: 33%;
+}
+.col3{
+	width: 40%;
+}
+.energy2-container{
+	display: flex;
+	text-align: center;
+	
+	justify-content: space-between;
+	
+}
+.energy3-container{
+display: flex;
+justify-content: space-between;
+text-align: center;
+}
+
+
+.footer{
+border-block: solid black 2px;
+	background-color:#777;
+padding: 10px;
+	text-align: center;
+	color: white;
+}
+
+
